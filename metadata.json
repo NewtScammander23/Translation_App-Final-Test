@@ -1,0 +1,7 @@
+{
+  "name": "Salin: Voice Translator",
+  "description": "A lively, interactive English-Filipino speech-to-speech translator powered by Gemini Live. Featuring voice activation and real-time translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
